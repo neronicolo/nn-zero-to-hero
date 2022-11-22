@@ -1,0 +1,2 @@
+conda create -n nn-zero-to-hero python=3.10  matplotlib numpy ipykernel jupyter scikit-learn python-graphviz 
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
